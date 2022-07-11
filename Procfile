@@ -1,1 +1,1 @@
-web: gunicorn dbopers:app
+web: gunicorn dbopers.wsgi
